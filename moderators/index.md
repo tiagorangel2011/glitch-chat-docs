@@ -26,9 +26,3 @@ The following people can be a moderator:
 * Anyone that actively participates in the project and have a trust level of basic or more in the support forum
 * Anyone that works at Glitch.com
 * Anyone that has requested authorization using the "be a mod" form
-
-So where's the "be a mod" form?
-Here it is:
-
-
-Want to make a suggestion? Check the forum post.
