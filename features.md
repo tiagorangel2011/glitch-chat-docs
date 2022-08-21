@@ -34,7 +34,7 @@ Glitch Chat's quite cool, so here's a list of the features it has. OMG; they are
 * Full markdown support
 * Type file FILE:LINE to create a link to focus the file and line you indicated
 * OMG rickrolling, type /bot superrickroll (sets the editor background to rickroll. when you click the editor, it disappears.
-* Moderators, learn more: Moderators | Open Source Glitch Chat Plataform 3
+* Moderators
 * Ability to change the codeMirror options in the chat
 * Alerts if you are using an old version
 * You can make a meeting, try it: `/meet`
