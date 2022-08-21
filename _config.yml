@@ -5,7 +5,7 @@ nav_external_links:
     url: https://uncovered-functional-lemonade.glitch.me/others/analytics.html
 footer_content: "&copy; The Glitch Chat team"
 aux_links:
-  "Install":
+  "Back home":
     - "https://uncovered-functional-lemonade.glitch.me/"
 
 aux_links_new_tab: true
