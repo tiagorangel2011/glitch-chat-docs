@@ -3,6 +3,8 @@ layout: default
 title: Features
 nav_order: 2
 ---
+# Features
+
 Glitch Chat's quite cool, so here's a list of the features it has. OMG; they are a lot.
 
 * Using emojis like :) or ;) will turn them into their real forms (it has a bunch of other emoji saved too)
