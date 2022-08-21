@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 logo: "https://uncovered-functional-lemonade.glitch.me/assets/icon.svg"
 nav_external_links:
-  - title: Go to Open Glitch Chat
+  - title: Install bookmarklet
     url: https://uncovered-functional-lemonade.glitch.me/
 footer_content: "&copy; The Glitch Chat team"
