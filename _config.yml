@@ -3,6 +3,8 @@ logo: "https://uncovered-functional-lemonade.glitch.me/assets/icon.svg"
 nav_external_links:
   - title: Analytics
     url: https://uncovered-functional-lemonade.glitch.me/others/analytics.html
+  - title: Send your testimonial
+    url: https://testimonial.to/open-glitch-chat/all
 footer_content: "&copy; The Glitch Chat team"
 aux_links:
   "Back home":
