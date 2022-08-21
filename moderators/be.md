@@ -2,7 +2,7 @@
 layout: default
 title: Moderator privileges
 nav_order: 4
-has_children: true
+parent: Moderators
 ---
 
 # Be a moderator
