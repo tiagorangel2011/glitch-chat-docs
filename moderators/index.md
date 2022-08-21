@@ -15,8 +15,7 @@ But wait, not what you are expecting. Mods can't delete messages or do other thi
 
 Notice it? It's quite similiar to stackoverflow's one.
 
-{: .highlight }
-The little star is yellow on our new update.
+> ℹ️ The little star is yellow on our new update.
 
 We don't want to make a "moderators can do anything" and "i wanna get mod at all cost" and things like that, so we will simplify this.
 
