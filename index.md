@@ -7,7 +7,7 @@ nav_order: 1
 # This is Glitch Chat
 That super cool editor, much improved  
 
-[Install now]([http://example.com/](https://uncovered-functional-lemonade.glitch.me/)){: .btn .btn-purple }
+[Install now](https://uncovered-functional-lemonade.glitch.me/){: .btn .btn-purple }
 [Learn more](https://support.glitch.com/t/meet-the-open-source-glitch-chat/53428?u=tiagorangel2011){: .btn }
 
 ### Welcome!
